@@ -1,0 +1,9 @@
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\Fwork.dll
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\Fwork.pdb
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\Newtonsoft.Json.Net35.pdb
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\obj\Release\Fwork.dll
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\obj\Release\Fwork.pdb
+C:\Users\Bruno\Desktop\Fontes\Fwork\Fwork\Fwork\bin\Release\dotless.Core.pdb

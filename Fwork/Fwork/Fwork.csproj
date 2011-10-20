@@ -68,6 +68,8 @@
     <Compile Include="Reflection\JSWriter.cs" />
     <Compile Include="Reflection\ReflectionWriter.cs" />
     <Compile Include="Reflection\ServiceWriter.cs" />
+    <Compile Include="Util\FileConcat.cs" />
+    <Compile Include="Util\FileReader.cs" />
     <Compile Include="Util\FileWriter.cs" />
     <Compile Include="Util\MD5.cs" />
     <Compile Include="Xsl\XslCompiler.cs" />
